@@ -1,0 +1,37 @@
+For my homepage assginemnt I did a guided project for a digital portfolio
+learning much more about HTML CSS and bootstrap
+
+HTML Tags used:
+html
+body
+main
+div
+meta
+link
+nav
+ul
+li
+a
+button
+path
+svg
+g
+section
+p
+h2
+footer
+span
+script
+
+I used a custom Styles.css that mixes bootstrap css with my own personal modifications
+CSS properties implemented of my own:
+text-decoration
+data-bs-theme
+background-color
+transition
+color
+
+For JavaScript I implemented a dark theme toggle on my website
+which toggles between light and dark mode by clicking themeToggle button
+and stores the preferred theme of the user
+
